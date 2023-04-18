@@ -3,4 +3,4 @@
 # ⚙️ My Skills
 ###  [![My Skills](https://skillicons.dev/icons?i=python,c,lua,html,rust)
 # 🛠️ Code Editor
-###  [![Code Editor](https://skillicons.dev/icons?i=vscode)
+###  [![Code Editor](https://skillicons.dev/icons?i=vscodium)
