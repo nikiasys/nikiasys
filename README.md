@@ -1,6 +1,6 @@
   # 📌 Наих
 ### 👋 Hello, my name is **Ulubey.**
-# ⚙️ Languages
+# ⚙️ My Skills
 ###  [![My Skills](https://skillicons.dev/icons?i=python,c,lua,html,rust)
 # 🛠️ Code Editor
-###  [![My Skills](https://skillicons.dev/icons?i=vscode)
+###  [![Code Editor](https://skillicons.dev/icons?i=vscode)
