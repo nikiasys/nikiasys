@@ -5,3 +5,4 @@
 # 🛠️ Code Editor
 ###    ![Code Editor](https://skillicons.dev/icons?i=vscode)
 ![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC0RL_1zazhFnqplgCflSrlg?style=social)
+(https://img.shields.io/cocoapods/p/ios%20linux)
