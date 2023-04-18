@@ -5,4 +5,4 @@
 # 🛠️ Code Editor
 ###    ![Code Editor](https://skillicons.dev/icons?i=vscode)
 
-[![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/bor666style=social)](https://www.youtube.com/@bor666/featured)
+[![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC0RL_1zazhFnqplgCflSrlgstyle=social)](https://www.youtube.com/@bor666/featured)
