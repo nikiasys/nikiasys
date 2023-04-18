@@ -1,5 +1,5 @@
   # 📌 Наих
-# 👋 Hello, my name is **Lyuben.**
+## 👋 Hello, my name is **Lyuben.**
 # ⚙️ Skills
 ###    ![My Skills](https://skillicons.dev/icons?i=python,c,lua,html,rust)
 # 🛠️ Code Editor
