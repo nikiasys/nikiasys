@@ -1,7 +1,7 @@
   # 📌 Luben
 ### 👋 Hello, my name is **Lyuben.**
 # ⚙️ Skills
-###    ![My Skills](https://skillicons.dev/icons?i=python,c,lua,html,rust)
+###    ![My Skills](https://skillicons.dev/icons?i=python,lua,rust)
 # 🛠️ Code Editor
 ###     <img src="https://cdn.discordapp.com/attachments/1117056616928378912/1117932472898965575/image.png" tyle="max-width: 100%;" width="48" title=Fleet. />
 # 🐧 The linux distribution I use
