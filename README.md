@@ -1,4 +1,4 @@
-![image](https://github.com/67x18/67x18/assets/114294912/9339e3d8-b85b-49ca-9669-46f9065b007a)  # 📌 Luben
+# 📌 Luben
 ### 👋 Hello, my name is **Lyuben.**
 # ⚙️ Skills
 ###    ![My Skills](https://skillicons.dev/icons?i=python,lua,rust)
