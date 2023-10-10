@@ -1,6 +1,6 @@
 <div>
-  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nikiasys?cardType=level&theme=dark&preferLogin=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikiasys&layout=donut&theme=dark"/>
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Nikias Yorgos?cardType=level&theme=dark&preferLogin=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikias Yorgos&layout=donut&theme=dark"/>
 </div>
 
 ### Skills ⚙️
